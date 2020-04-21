@@ -12,8 +12,5 @@ auth.json
 /**/*.log
 
 #output files
-public/*.html
-public/*.js
-public/*.css
-public/*.map
-public/*.gz
+public/*
+.cache/
