@@ -1,7 +1,7 @@
 ---
 title: Potion School
 description: You are a student at a magical school with a penchant for potions. Use your skills to earn the best grade possible by the end of the semester, or sabotage your classmates so they can't get ahead of you...
-featured: false
+featured: true
 ---
 
 You are a student at a magical school with a penchant for potions. Use your skills to earn the best grade possible by the end of the semester, or sabotage your classmates so they can't get ahead of you...

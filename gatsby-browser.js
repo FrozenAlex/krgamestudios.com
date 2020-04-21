@@ -1,2 +1,2 @@
 // CSS import
-import "./src/style/shared.css"
+import "./src/style/index.css"

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { FaTwitter, FaGithub, FaFacebook, FaPatreon, FaDiscord } from "react-icons/fa"
+import { FaTwitter, FaGithub, FaFacebookF, FaPatreon, FaDiscord } from "react-icons/fa"
 
 class PanelBrands extends React.Component {
 	constructor(props) {
@@ -13,25 +13,25 @@ class PanelBrands extends React.Component {
 		};
 
 		return (
-			<div className='panel' style={{flexDirection: 'row'}}>
-				<a href="https://facebook.com/KRGameStudios">
-					<FaFacebook/>
+			<div className='brands-bar' style={{flexDirection: 'row'}}>
+				<a className="facebook" href="https://facebook.com/KRGameStudios">
+					<FaFacebookF size={32}/>
 				</a>
 
-				<a href="https://twitter.com/KRGameStudios">
-					<FaTwitter  style={img} />
+				<a className="twitter" href="https://twitter.com/KRGameStudios">
+					<FaTwitter  size={32} style={img} />
 				</a>
 
-				<a href="https://github.com/KRGameStudios">
-					<FaGithub  style={img} />
+				<a className="github" href="https://github.com/KRGameStudios">
+					<FaGithub  size={32} style={img} />
 				</a>
 
-				<a href="https://discord.gg/FQmz8TN">
-					<FaDiscord  style={img} />
+				<a className="discord" href="https://discord.gg/FQmz8TN">
+					<FaDiscord  size={32} style={img} />
 				</a>
 
-				<a href="https://www.patreon.com/krgamestudios">
-					<FaPatreon  style={img} />
+				<a className="patreon" href="https://www.patreon.com/krgamestudios">
+					<FaPatreon size={32} style={img} />
 				</a>
 			</div>
 		);

@@ -1,0 +1,46 @@
+@import "./shared.css";
+
+.panel .title {
+    text-decoration: none;
+    color: black
+}
+
+a {
+    text-decoration: none;
+}
+
+.active-link {
+    color: rgb(123, 255, 144) !important;
+}
+
+/* Brands style */
+
+.brands-bar {
+    margin: 3 auto;
+}
+.brands-bar a {
+    display: inline-block;
+    padding: 6px;
+    margin: 0 5px;
+    background-color: white;
+    border-radius: 50%;
+    text-align:center;
+}
+.brands-bar svg {
+    display: block
+}
+.facebook  {color: #3b5998}
+.twitter  {color: #1da1f2}
+.github  {color: black}
+.discord  {color: #7289da}
+.patreon  {color: #f96854}
+
+
+/* Gatsby image styles*/
+/* .articleList .panel .gatsby-resp-image-image {
+    max-width: 200px !important;
+} */
+/* purgecss ignore */
+.articleList .gatsby-resp-image-wrapper {
+    max-width: 200px !important;
+}

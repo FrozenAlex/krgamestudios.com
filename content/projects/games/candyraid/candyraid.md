@@ -4,13 +4,14 @@ description: Raid Milly Monk's Candy Factory for its secret, hidden sweets! Cand
 slug: "/candyraid/"
 featuredImage: crtflogo.png
 date: "2018-10-01"
-featured: true
+featured: false
 ---
 <Image src="crtflogo.png" style="width: 80%; align-self: center" />
 
+<img src="crtfpromo.png" class="col" />
 <div class="table" style="flex-direction: row">
 	<div class="row">
-		<Image class="col" src="//crtfpromo.png" width="100%" style="object-fit: contain;" />
+		
 		<div class="col panel">
 			<p>Raid Milly Monk's Candy Factory for its secret, hidden sweets! Candy Raid: The Factory is a retro top-down puzzle and exploration game. You play the candy-happy witch Candy as she uses her elemental powers to solve puzzles and unlock secrets in her never-ending quest to sate her sweet tooth.</p>
 			<ul>

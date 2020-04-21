@@ -16,15 +16,17 @@ const SiteIndex = ({ data, location }) => {
                 <Brands />
                 <h1>Welcome!</h1>
                 <hr />
-                <div className='table'>
+                <div className='table articleList'>
                     <div className='row'>
                         {posts.map(({ node }) => {
                             return (
-                                <article className='col' style={{ alignItems: 'flex-start' }}
-                                    dangerouslySetInnerHTML={{
+                                <article className='col' style={{display:"block"}}>
+                                    <h2>{node.frontmatter.title}</h2>
+                                    <div dangerouslySetInnerHTML={{
                                         __html: node.html,
-                                    }}
-                                />
+                                    }}>
+                                    </div>
+                                </article>
                             )
                         })}
                     </div>

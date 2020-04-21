@@ -22,7 +22,6 @@ const purgecss = require("@fullhuman/postcss-purgecss")({
         github: `KRGameStudios`,
         facebook: `KRGameStudios`,
         patreon: `krgamestudios`
-
       },
     },
     plugins: [
@@ -57,7 +56,9 @@ const purgecss = require("@fullhuman/postcss-purgecss")({
                 maxWidth: 1024,
                 quality: 90,
                 withWebp: true,
-
+                tracedSVG: true,
+                disableBgImageOnAlpha: true,
+                backgroundColor: "transparent"
               },
             },
             {
@@ -88,9 +89,9 @@ const purgecss = require("@fullhuman/postcss-purgecss")({
           short_name: `KR Game Studios`,
           start_url: `/`,
           background_color: `#ffffff`,
-          theme_color: `#663399`,
+          theme_color: `#01796f`,
           display: `minimal-ui`,
-        //   icon: `content/assets/gatsby-icon.png`,
+          icon: `content/assets/img/logo_400x400.png`
         },
       },
       `gatsby-plugin-react-helmet`,

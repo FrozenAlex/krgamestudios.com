@@ -13,9 +13,13 @@ const Layout = ({
     <div >
       <Header></Header>
       <div className="central">
-        {children}
+        <div className="page">
+          {children}
+          <Footer />
+        </div>
+
       </div>
-      <Footer />
+
     </div>
   )
 }

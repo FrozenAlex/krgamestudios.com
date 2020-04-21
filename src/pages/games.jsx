@@ -10,19 +10,19 @@ const GamesPage = ({ data, location }) => {
   const posts = data.allMarkdownRemark.edges;
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="KR Game Studios" />
+      <SEO title="Games" />
 
       <div className='page'>
         <h1>Games</h1>
         <div className="articleList">
           {posts.map(({ node }) => {
             return (
-              <article className='col' style={{ alignItems: 'flex-start' }}
-              >
-                <Link to={node.fields.slug}><h1>{node.frontmatter.title || ""}</h1></Link>
-                <div  dangerouslySetInnerHTML={{
+              <article className='panel' >
+                <hr />
+                <Link  className="title"  to={node.fields.slug}><h2>{node.frontmatter.title || ""}</h2></Link>
+                <div dangerouslySetInnerHTML={{
                   __html: node.html,
-                }}/>
+                }} />
               </article>
             )
           })}

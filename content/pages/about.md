@@ -1,4 +1,7 @@
-# My name is Kayne Ruse.
+---
+title: About me
+---
+## My name is Kayne Ruse.
 
 I've been making games since I was 13, which is over half my life now; I was born with a controller in my hand. I finished highschool in 2009, I studied game development at TAFE for 2 years, and I've been trying to break into the industry ever since.
 

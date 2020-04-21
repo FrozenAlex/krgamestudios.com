@@ -19,6 +19,4 @@ What will you hatch next?
 * [Egg Trainer Website](https://eggtrainer.com/)
 * [Source Code](https://github.com/ratstail91/EggTrainer)
 
-<p style="align-self: center; max-width: 150px">
-	<Image exact="slink.png" style="max-width: 150px" />
-</p>
+<Image src="slink.png" style="max-width: 150px" />
