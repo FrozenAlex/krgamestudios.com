@@ -26,6 +26,7 @@ a {
     border-radius: 50%;
     text-align:center;
 }
+/* purgecss ignore */
 .brands-bar svg {
     display: block
 }
@@ -37,9 +38,6 @@ a {
 
 
 /* Gatsby image styles*/
-/* .articleList .panel .gatsby-resp-image-image {
-    max-width: 200px !important;
-} */
 /* purgecss ignore */
 .articleList .gatsby-resp-image-wrapper {
     max-width: 200px !important;

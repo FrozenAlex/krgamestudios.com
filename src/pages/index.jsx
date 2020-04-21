@@ -10,8 +10,7 @@ const SiteIndex = ({ data, location }) => {
     const posts = data.allMarkdownRemark.edges
     return (
         <Layout location={location} title={siteTitle}>
-            <SEO title="KR Game Studios" />
-
+            <SEO title="Home" />
             <div className='page'>
                 <Brands />
                 <h1>Welcome!</h1>
