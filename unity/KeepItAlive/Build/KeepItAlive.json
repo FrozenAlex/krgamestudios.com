@@ -1,0 +1,16 @@
+{
+"companyName": "KR Game Studios",
+"productName": "Keep It Alive",
+"productVersion": "1.0",
+"dataUrl": "KeepItAlive.data.unityweb",
+"wasmCodeUrl": "KeepItAlive.wasm.code.unityweb",
+"wasmFrameworkUrl": "KeepItAlive.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
