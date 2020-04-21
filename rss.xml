@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[KR Game Studios]]></title><description><![CDATA[KR Game Studios Website]]></description><link>https://krgamestudios.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 Apr 2020 19:12:27 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[GitHub No, I’m not claiming to have made GitHub, rather, I use GitHub’s features as a backup system. You can see everything I’ve made on my…]]></description><link>https://krgamestudios.com/coding/github/</link><guid isPermaLink="false">https://krgamestudios.com/coding/github/</guid><content:encoded>&lt;h2&gt;GitHub&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[KR Game Studios]]></title><description><![CDATA[KR Game Studios Website]]></description><link>https://krgamestudios.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 Apr 2020 20:42:59 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[GitHub No, I’m not claiming to have made GitHub, rather, I use GitHub’s features as a backup system. You can see everything I’ve made on my…]]></description><link>https://krgamestudios.com/coding/github/</link><guid isPermaLink="false">https://krgamestudios.com/coding/github/</guid><content:encoded>&lt;h2&gt;GitHub&lt;/h2&gt;
 &lt;p&gt;No, I’m not claiming to have made GitHub, rather, I use GitHub’s features as a backup system. You can see everything I’ve made on my accounts:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/krgamestudios&quot;&gt;KR Game Studios&lt;/a&gt;&lt;/li&gt;
@@ -66,28 +66,7 @@
 &lt;li&gt;&lt;a href=&quot;/krgamestudios.com/dl/Tortuga-win.rar&quot;&gt;Tortuga for Windows (Tortuga-win.rar)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/krgamestudios.com/dl/Tortuga-linux.tar&quot;&gt;Tortuga for Linux (Tortuga-linux.tar)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/KRGameStudios/Tortuga&quot;&gt;Tortuga Source Code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Egg Trainer]]></title><description><![CDATA[Raise, train and battle creatures from eggs! Inspired by popular monster battling games, Egg Trainer allows you to buy eggs from the market…]]></description><link>https://krgamestudios.com/games/eggtrainer/egg_trainer/</link><guid isPermaLink="false">https://krgamestudios.com/games/eggtrainer/egg_trainer/</guid><content:encoded>&lt;p&gt;Raise, train and battle creatures from eggs!&lt;/p&gt;
-&lt;p&gt;Inspired by popular monster battling games, Egg Trainer allows you to buy eggs from the market, hatch them, then train them - each one is different, and even creatures within the same species can vary wildly in strengths.&lt;/p&gt;
-&lt;p&gt;Once you’ve trained a set of six powerful creatures, you can battle them against other players!&lt;/p&gt;
-&lt;p&gt;Your creatures fight in pairs, with each creature having a choice of four different actions. Some actions will gain benefits or drawbacks depending on the elemental type of your creature, the move, and the opponent’s creature.&lt;/p&gt;
-&lt;p&gt;You can also breed creatures to produce new eggs, some of which are extremely rare.&lt;/p&gt;
-&lt;p&gt;What will you hatch next?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://eggtrainer.com/&quot;&gt;Egg Trainer Website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/ratstail91/EggTrainer&quot;&gt;Source Code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 500px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/krgamestudios.com/static/fb4adc2dbf4a61bc4b01f848aa46c075/c6e3d/slink.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source srcset=&quot;/krgamestudios.com/static/fb4adc2dbf4a61bc4b01f848aa46c075/8d3d1/slink.webp 256w,
-/krgamestudios.com/static/fb4adc2dbf4a61bc4b01f848aa46c075/4be29/slink.webp 500w&quot; sizes=&quot;(max-width: 500px) 100vw, 500px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/krgamestudios.com/static/fb4adc2dbf4a61bc4b01f848aa46c075/85b06/slink.png 256w,
-/krgamestudios.com/static/fb4adc2dbf4a61bc4b01f848aa46c075/c6e3d/slink.png 500w&quot; sizes=&quot;(max-width: 500px) 100vw, 500px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/krgamestudios.com/static/fb4adc2dbf4a61bc4b01f848aa46c075/c6e3d/slink.png&quot; alt=&quot;slink&quot; title=&quot;slink&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;</content:encoded></item><item><title><![CDATA[Potion School]]></title><description><![CDATA[You are a student at a magical school with a penchant for potions. Use your skills to earn the best grade possible by the end of the…]]></description><link>https://krgamestudios.com/games/potionschool/potion_school/</link><guid isPermaLink="false">https://krgamestudios.com/games/potionschool/potion_school/</guid><content:encoded>&lt;p&gt;You are a student at a magical school with a penchant for potions. Use your skills to earn the best grade possible by the end of the semester, or sabotage your classmates so they can’t get ahead of you…&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Potion School]]></title><description><![CDATA[You are a student at a magical school with a penchant for potions. Use your skills to earn the best grade possible by the end of the…]]></description><link>https://krgamestudios.com/games/potionschool/potion_school/</link><guid isPermaLink="false">https://krgamestudios.com/games/potionschool/potion_school/</guid><content:encoded>&lt;p&gt;You are a student at a magical school with a penchant for potions. Use your skills to earn the best grade possible by the end of the semester, or sabotage your classmates so they can’t get ahead of you…&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.drivethrucards.com/product/305213/Potion-School&quot;&gt;Potion School Store Page&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1EDbpNVyBhdiAEOdDlPOLLPAa3LmhSxQVRxmoZSkwh-M/edit?usp=sharing&quot;&gt;Potion School Spec&lt;/a&gt;&lt;/li&gt;
@@ -108,7 +87,28 @@
       &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About me]]></title><description><![CDATA[My name is Kayne Ruse. I’ve been making games since I was 13, which is over half my life now; I was born with a controller in my hand. I…]]></description><link>https://krgamestudios.com/about/</link><guid isPermaLink="false">https://krgamestudios.com/about/</guid><content:encoded>&lt;h2&gt;My name is Kayne Ruse.&lt;/h2&gt;
+&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Egg Trainer]]></title><description><![CDATA[Raise, train and battle creatures from eggs! Inspired by popular monster battling games, Egg Trainer allows you to buy eggs from the market…]]></description><link>https://krgamestudios.com/games/eggtrainer/egg_trainer/</link><guid isPermaLink="false">https://krgamestudios.com/games/eggtrainer/egg_trainer/</guid><content:encoded>&lt;p&gt;Raise, train and battle creatures from eggs!&lt;/p&gt;
+&lt;p&gt;Inspired by popular monster battling games, Egg Trainer allows you to buy eggs from the market, hatch them, then train them - each one is different, and even creatures within the same species can vary wildly in strengths.&lt;/p&gt;
+&lt;p&gt;Once you’ve trained a set of six powerful creatures, you can battle them against other players!&lt;/p&gt;
+&lt;p&gt;Your creatures fight in pairs, with each creature having a choice of four different actions. Some actions will gain benefits or drawbacks depending on the elemental type of your creature, the move, and the opponent’s creature.&lt;/p&gt;
+&lt;p&gt;You can also breed creatures to produce new eggs, some of which are extremely rare.&lt;/p&gt;
+&lt;p&gt;What will you hatch next?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://eggtrainer.com/&quot;&gt;Egg Trainer Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ratstail91/EggTrainer&quot;&gt;Source Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 500px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/krgamestudios.com/static/fb4adc2dbf4a61bc4b01f848aa46c075/c6e3d/slink.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source srcset=&quot;/krgamestudios.com/static/fb4adc2dbf4a61bc4b01f848aa46c075/8d3d1/slink.webp 256w,
+/krgamestudios.com/static/fb4adc2dbf4a61bc4b01f848aa46c075/4be29/slink.webp 500w&quot; sizes=&quot;(max-width: 500px) 100vw, 500px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/krgamestudios.com/static/fb4adc2dbf4a61bc4b01f848aa46c075/85b06/slink.png 256w,
+/krgamestudios.com/static/fb4adc2dbf4a61bc4b01f848aa46c075/c6e3d/slink.png 500w&quot; sizes=&quot;(max-width: 500px) 100vw, 500px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/krgamestudios.com/static/fb4adc2dbf4a61bc4b01f848aa46c075/c6e3d/slink.png&quot; alt=&quot;slink&quot; title=&quot;slink&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;</content:encoded></item><item><title><![CDATA[About me]]></title><description><![CDATA[My name is Kayne Ruse. I’ve been making games since I was 13, which is over half my life now; I was born with a controller in my hand. I…]]></description><link>https://krgamestudios.com/about/</link><guid isPermaLink="false">https://krgamestudios.com/about/</guid><content:encoded>&lt;h2&gt;My name is Kayne Ruse.&lt;/h2&gt;
 &lt;p&gt;I’ve been making games since I was 13, which is over half my life now; I was born with a controller in my hand. I finished highschool in 2009, I studied game development at TAFE for 2 years, and I’ve been trying to break into the industry ever since.&lt;/p&gt;
 &lt;p&gt;I have tons of hands-on experience, having taught myself most of what I know. I’m now trying to build KR Game Studios as a viable business.&lt;/p&gt;
 &lt;p&gt;You can contact me at &lt;a href=&quot;mailto:kayneruse@gmail.com&quot;&gt;kayneruse@gmail.com&lt;/a&gt;.&lt;/p&gt;
