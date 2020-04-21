@@ -12,7 +12,8 @@
     "pull": "git pull && npm run webpack-production",
     "dev": "webpack-dev-server --mode=development --env=development --config webpack.config.js",
     "analyzer": "webpack --mode=development --env=analyzer --config webpack.config.js",
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
+    "serve": "gatsby serve --prefix-paths",
     "develop": "gatsby develop"
   },
   "repository": {

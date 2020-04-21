@@ -1,4 +1,5 @@
 /* global defaults */
+/* purgecss start ignore */
 * {
 	margin: 0;
 	padding: 0;
@@ -222,3 +223,5 @@ footer {
 		flex: 0.5;
 	}
 }
+
+/* purgecss end ignore */

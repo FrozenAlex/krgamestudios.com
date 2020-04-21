@@ -8,6 +8,7 @@ const purgecss = require("@fullhuman/postcss-purgecss")({
   })
   
   module.exports = {
+    pathPrefix: `/krgamestudios.com`,
     siteMetadata: {
       title: `KR Game Studios`,
       author: {
